@@ -2,7 +2,7 @@
 # 📊 Strategic Sales Performance Analysis
 
 ### 🎥 Dashboard Demonstration
-<video src="https://raw.githubusercontent.com/unknown010112/tableau_sales_dashboard/main/Tableau_Dashboard.mp4" width="100%" controls></video>o>
+![Tableau Dashboard](https://raw.githubusercontent.com/unknown010112/tableau_sales_dashboard/main/Tableau_Dashboard.gif)
 ---
 
 ### 🚀 Introduction
